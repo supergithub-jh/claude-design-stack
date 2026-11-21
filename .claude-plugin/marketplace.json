@@ -1,0 +1,11 @@
+{
+  "name": "design-stack",
+  "owner": { "name": "supergithub-jh" },
+  "plugins": [
+    {
+      "name": "design-stack",
+      "source": "./",
+      "description": "Five design skills plus the design-review routine that runs them in order."
+    }
+  ]
+}
